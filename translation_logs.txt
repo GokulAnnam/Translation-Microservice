@@ -1,0 +1,4 @@
+{"timestamp": "2025-07-12T20:18:59.824850", "original_text": "Hello world", "translated_text": "வணக்கம் உலகம்", "source_language": "en", "target_language": "ta"}
+{"timestamp": "2025-07-12T20:19:00.552910", "original_text": "How are you?", "translated_text": "நீங்கள் எப்படி இருக்கிறீர்கள்?", "source_language": "en", "target_language": "ta"}
+{"timestamp": "2025-07-12T20:19:01.866924", "original_text": "not good", "translated_text": "நல்லதல்ல", "source_language": "en", "target_language": "ta"}
+{"timestamp": "2025-07-12T20:22:14.618354", "original_text": "i am fine", "translated_text": "मैं ठीक हूँ", "source_language": "en", "target_language": "hi"}
